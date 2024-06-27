@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+
+}
+
+.main{
+    width: 100%;
+    height: 87vh;
+}
+
+video{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.content{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 76px;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    color: white;
+}
